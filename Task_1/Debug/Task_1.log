@@ -1,0 +1,5 @@
+﻿  Task_1.cpp
+C:\Users\Visheratin\source\repos\Task_1\Task_1.cpp(7,20): error C2109: для индекса требуется массив или указатель
+C:\Users\Visheratin\source\repos\Task_1\Task_1.cpp(8,25): error C2109: для индекса требуется массив или указатель
+C:\Users\Visheratin\source\repos\Task_1\Task_1.cpp(18,5): error C2664: "bool IsLucky(int &)": невозможно преобразовать аргумент 1 из "int [6]" в "int &"
+C:\Users\Visheratin\source\repos\Task_1\Task_1.cpp(3,6): message : см. объявление "IsLucky"
